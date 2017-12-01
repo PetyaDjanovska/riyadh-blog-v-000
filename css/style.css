@@ -59,6 +59,7 @@ a {
   color: black;
   text-decoration: none;
   font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
 }
 
 a:hover {
